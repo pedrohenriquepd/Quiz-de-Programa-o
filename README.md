@@ -1,5 +1,7 @@
 # Quiz-de-Programacao
 
+Fiz esse Quiz de Programação, nele utilizei as tecnologias React + Vite 
+
 Demo: https://meu-projeto-gamma.vercel.app/
 
 
